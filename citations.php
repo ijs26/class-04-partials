@@ -1,3 +1,5 @@
+<?php $title = "Citations"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -40,7 +42,7 @@
   </main>
 
   <?php include("includes/footer.php") ?>
-  
+
 </body>
 
 </html>
